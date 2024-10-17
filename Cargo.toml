@@ -1,0 +1,8 @@
+[package]
+name = "taileater"
+version = "0.1.0"
+authors = ["Chanble<chanble_cn@163.com>"]
+edition = "2021"
+
+[dependencies]
+bevy = "0.14.2"
